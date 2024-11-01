@@ -1,6 +1,6 @@
 /*
-    This file is a part of Saviru's Portfolio
-    Copyright (C) 2024 Saviru Kashmira Atapattu
+    This file is a part of Satish's Portfolio
+    Copyright (C) 2024 SatishX-Droid 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -16,9 +16,9 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 */
 
-console.log("Welcome to Saviru's portfolio !")
+console.log("Welcome to Satish's portfolio !")
 
-title = "Hi there, I'm Saviru Kashmira Atapattu. Welcome to my portfolio !           ";
+title = "Hi there, I'm Satish Kumar . Welcome to my portfolio !           ";
 position = 0;
 function scrolltitle() {
     document.title = title.substring(position, title.length) + title.substring(0, position); 
@@ -222,11 +222,11 @@ copylink.addEventListener("click", () => {
 
 function sendMessage() {
   (function() {
-    emailjs.init("CFVlg1m3TvKf2PC9Q");
+    emailjs.init("rgYQRruXegDX5Kw64");
   })();
 
-  var serviceID = "sv2006Saviru_PF.2024";
-  var templateID = "templ2006Saviru_PF.2024";
+  var serviceID = "service_ck7mlkn";
+  var templateID = "template_sq8z51i";
 
   var params = {
     sendername:document.querySelector("#name").value,
