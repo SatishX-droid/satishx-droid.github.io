@@ -1,4 +1,4 @@
-# Saviru.github.io
+# satishx-droid.github.io
 My personal portfolio
 
-Visit: <a href="https://Saviru.github.io">Saviru.github.io</a>
+Visit: <a href="[https://Saviru.github.io](https://satishx-droid.github.io/portfolio/)">satishx-droid.github.io</a>
